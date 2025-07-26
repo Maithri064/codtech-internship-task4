@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*AME*: MAITHRI MUDALIAR
+*NAME*: MAITHRI MUDALIAR
 
 *INTERN ID*: CT04DH1025
 
@@ -15,6 +15,8 @@
 # Sentiment Analysis – Task 4
 
 This project performs sentiment analysis on movie reviews using basic NLP techniques and a Naive Bayes classifier.
+
+- **Goal**: Classify movie reviews as either **positive** or **negative**.
 
 ##  Key Steps
 - Data cleaning (removing URLs, punctuation, and stopwords)
@@ -30,5 +32,12 @@ Contains movie reviews labeled as **positive** or **negative**.
 ##  Output
 - A trained model with basic accuracy
 - Clean beginner-friendly notebook for understanding sentiment analysis
+
+# Dataset
+ [sample_movie_reviews.csv](https://github.com/user-attachments/files/21443143/sample_movie_reviews.csv)
+
+ _This project is part of my learning journey into Data Analytics and NLP.
+
+ 
 
   
